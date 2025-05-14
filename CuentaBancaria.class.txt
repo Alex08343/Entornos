@@ -47,6 +47,9 @@ class CuentaBancaria
 	{
 		return numCuenta;
 	}
+	public double getTipoIntereses(){
+	return tipoIntereses;
+	}
 	
 	////////////////////////////////////////////////////////////////////////////
 	
